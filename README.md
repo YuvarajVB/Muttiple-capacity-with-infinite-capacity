@@ -20,7 +20,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 ![image](https://github.com/YuvarajVB/Muttiple-capacity-with-infinite-capacity/assets/151488375/a1b81b35-cb75-4f60-958b-3ecd74f67a30)
-![image](https://github.com/YuvarajVB/Muttiple-capacity-with-infinite-capacity/assets/151488375/4bad6422-b78a-42db-94c1-6921b35bd6ca)
+
 
 ## Program
 ```
